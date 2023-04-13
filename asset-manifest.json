@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Image-Editor-App/static/css/main.85de0fee.css",
+    "main.css": "/Image-Editor-App/static/css/main.2b4c089d.css",
     "main.js": "/Image-Editor-App/static/js/main.fb1659d4.js",
     "static/js/787.8361a328.chunk.js": "/Image-Editor-App/static/js/787.8361a328.chunk.js",
     "index.html": "/Image-Editor-App/index.html",
-    "main.85de0fee.css.map": "/Image-Editor-App/static/css/main.85de0fee.css.map",
+    "main.2b4c089d.css.map": "/Image-Editor-App/static/css/main.2b4c089d.css.map",
     "main.fb1659d4.js.map": "/Image-Editor-App/static/js/main.fb1659d4.js.map",
     "787.8361a328.chunk.js.map": "/Image-Editor-App/static/js/787.8361a328.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85de0fee.css",
+    "static/css/main.2b4c089d.css",
     "static/js/main.fb1659d4.js"
   ]
 }
